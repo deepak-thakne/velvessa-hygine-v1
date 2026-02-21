@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/velvessa-hygine-v1/static/css/main.32c0caab.css",
-    "main.js": "/velvessa-hygine-v1/static/js/main.28678559.js",
+    "main.js": "/velvessa-hygine-v1/static/js/main.58ef9f99.js",
     "static/js/453.449642e2.chunk.js": "/velvessa-hygine-v1/static/js/453.449642e2.chunk.js",
     "index.html": "/velvessa-hygine-v1/index.html",
     "main.32c0caab.css.map": "/velvessa-hygine-v1/static/css/main.32c0caab.css.map",
-    "main.28678559.js.map": "/velvessa-hygine-v1/static/js/main.28678559.js.map",
+    "main.58ef9f99.js.map": "/velvessa-hygine-v1/static/js/main.58ef9f99.js.map",
     "453.449642e2.chunk.js.map": "/velvessa-hygine-v1/static/js/453.449642e2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.32c0caab.css",
-    "static/js/main.28678559.js"
+    "static/js/main.58ef9f99.js"
   ]
 }
